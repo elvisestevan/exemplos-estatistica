@@ -4,3 +4,7 @@ Aplicação para cálculo e representação gráfica de dados usando métodos ab
 
 * Média, Mediana e Moda
 * Variabilidade, Dispersão dos Dados, Outliers e Quartis
+* Boxplot
+* Variância e Desvio Padrão
+* População x Amostra (com graus de liberdade)
+* Intervalos de confiança
